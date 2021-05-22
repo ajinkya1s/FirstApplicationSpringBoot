@@ -13,6 +13,7 @@ import app.com.pojos.User;
 @Service
 public class AdminServices {
 	
+	
 	@Autowired
 	private UserDaoInter userInterface;
 	
